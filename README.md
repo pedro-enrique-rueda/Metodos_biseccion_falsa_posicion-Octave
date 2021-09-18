@@ -12,4 +12,4 @@ npk install https://github.com/apjanke/octave-tablicious/releases/download/v0.3.
 
 esto le instalara un paquete que le va a permitir mostrar los resultados utilizando una tabla muy bonita.
 
-nota: esto es para Octave exclusivamente. 
+nota: esto es para Octave exclusivamente. Puedes implementar esto en matlab también pero deberas hacer algunos cambios, por ejemplo comente las lineas donde utiliza el metodo "table" y "pretty" que están al final de los .m de falsa posicion y biseccion. y por supuesto no instale el paquete que le sugerí previamente. 
